@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Sun Sep 15 21:41:07 MSK 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-363a-8339-00000fc71f40 
+on database directory /home/max/Документы/spring/examples/jwtsecurity/db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/max/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+user.dir=/home/max/Документы/spring/examples/jwtsecurity
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 15 21:41:08 MSK 2019:
+Shutting down instance a816c00e-016d-363a-8339-00000fc71f40 on database directory /home/max/Документы/spring/examples/jwtsecurity/db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Sep 15 21:41:08 MSK 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 48d7402a-016d-363a-8339-00000fc71f40 
+on database directory /home/max/Документы/spring/examples/jwtsecurity/db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/max/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+user.dir=/home/max/Документы/spring/examples/jwtsecurity
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-60-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

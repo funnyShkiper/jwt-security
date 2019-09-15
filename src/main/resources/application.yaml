@@ -1,0 +1,22 @@
+server:
+  port: 8075
+spring:
+  datasource:
+    driver-class-name: org.apache.derby.jdbc.EmbeddedDriver
+    url: jdbc:derby:/home/max/Документы/spring/examples/jwtsecurity/db
+    username: sa
+    password: sa
+  liquibase:
+    url: jdbc:derby:/home/max/Документы/spring/examples/jwtsecurity/db
+    user: sa
+    password: sa
+    change-log: classpath:db/changelog/db.changelog-master.xml
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+jwt:
+  token:
+    secret: jwtapp
+    expired: 3600000
